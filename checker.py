@@ -5,7 +5,6 @@ import argparse
 import logging
 import glob
 
-from urllib.request import urlopen
 from packages import helpers
 
 OPTIONS = {
