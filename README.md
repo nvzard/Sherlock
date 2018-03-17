@@ -1,5 +1,7 @@
 # Sherlock
-Application to compare code using MOSS
+Command Line Interface to compare code using MOSS
+
+I made this to understand the use sockets and MOSS closely.
 
 usage:
 ```
